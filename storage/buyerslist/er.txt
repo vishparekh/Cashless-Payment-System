@@ -1,0 +1,1 @@
+The email must be a valid email address.The mobile must be 10 digits.The rfid must be a number.
